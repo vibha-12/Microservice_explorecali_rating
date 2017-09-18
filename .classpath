@@ -17,7 +17,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
@@ -25,15 +25,6 @@
 	<classpathentry exported="true" kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Administrator/.m2/repository/org/springframework/cloud/spring-cloud-commons/1.1.8.RELEASE/spring-cloud-commons-1.1.8.RELEASE.jar" sourcepath="C:/Users/Administrator/.m2/repository/org/springframework/cloud/spring-cloud-commons/1.1.8.RELEASE/spring-cloud-commons-1.1.8.RELEASE-sources.jar">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="maven.groupId" value="org.springframework.cloud"/>
-			<attribute name="maven.artifactId" value="spring-cloud-commons"/>
-			<attribute name="maven.version" value="1.1.8.RELEASE"/>
-			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="var" path="M2_REPO/org/springframework/cloud/spring-cloud-netflix-eureka-server/1.2.6.RELEASE/spring-cloud-netflix-eureka-server-1.2.6.RELEASE.jar"/>

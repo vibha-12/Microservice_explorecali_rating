@@ -2721,3 +2721,97 @@
 16:06:21.344 [http-nio-4040-exec-2] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
 16:06:58.511 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
 16:06:58.511 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:17:26.901 [main] INFO  c.e.e.e.ExplorecaliApplication - No active profile set, falling back to default profiles: default
+11:17:43.430 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:17:43.430 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.510 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.510 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.527 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.527 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.528 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.528 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.529 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.529 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.529 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.529 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.529 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.529 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.529 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.529 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.530 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.530 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.530 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.530 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.531 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.531 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.531 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.531 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.533 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.533 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.534 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.534 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.534 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.534 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.535 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.535 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.536 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.536 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.538 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.538 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.538 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.538 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:18:01.625 [main] INFO  c.e.e.e.ExplorecaliApplication - Started ExplorecaliApplication in 41.516 seconds (JVM running for 43.807)
+11:18:01.625 [main] DEBUG c.e.e.e.ExplorecaliApplication - Message logged at main method
+11:18:01.626 [main] DEBUG c.e.e.e.services.TourPackageService - Message at DEBUG level from TourPackageService()
+11:18:01.626 [main] DEBUG c.e.e.e.services.TourPackageService - Message at DEBUG level from TourPackageService()
+11:23:23.481 [main] INFO  c.e.e.e.ExplorecaliApplication - No active profile set, falling back to default profiles: default
+11:23:48.069 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:23:48.069 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.544 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.544 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.560 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.560 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.561 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.561 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.562 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.562 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.562 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.562 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.563 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.563 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.563 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.563 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.563 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.563 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.564 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.564 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.564 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.564 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.566 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.566 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.566 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.566 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.566 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.566 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.566 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.566 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.567 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.567 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.568 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.568 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.569 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.569 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.571 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.571 [main] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:08.620 [main] INFO  c.e.e.e.ExplorecaliApplication - Started ExplorecaliApplication in 51.172 seconds (JVM running for 52.763)
+11:24:08.621 [main] DEBUG c.e.e.e.ExplorecaliApplication - Message logged at main method
+11:24:08.621 [main] DEBUG c.e.e.e.services.TourPackageService - Message at DEBUG level from TourPackageService()
+11:24:08.621 [main] DEBUG c.e.e.e.services.TourPackageService - Message at DEBUG level from TourPackageService()
+11:24:49.218 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:49.218 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:49.222 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:49.222 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:49.223 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:49.223 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:49.225 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+11:24:49.225 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
