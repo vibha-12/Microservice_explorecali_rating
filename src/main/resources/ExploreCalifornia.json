@@ -1,0 +1,28 @@
+'{
+ {
+  "packageType":"Backpack Cal",
+  "title":"Big Sur Retreat",
+  "blurb":"Capture and inspect with Interceptor. Postman interceptor brings the power of your Chrome window to Postman!",
+  "description":"Capture and inspect with Interceptor. Postman interceptor brings the power of your Chrome window to Postman!",
+  "bullets":"Capture and inspect with Interceptor. Postman interceptor brings the power of your Chrome window to Postman!",
+  "difficulty":"Medium",
+  "length":"3 days",
+  "price":"750",
+  "region":"Central Coast",
+  "keywords":"Hiking,National Park"
+
+ },
+{
+  "packageType":"aaaaaa",
+  "title":"Big Sur Retreaaaaaaaaa",
+  "blurb":"aaaaaaaaaaaaaaaaaaaaaaaaaaaInterceptor. Postman interceptor brings the power of your Chrome window to Postman!",
+  "description":"aaaaaaaaaaaaaaaaaaaaaaaaaaaact with Interceptor. Postman interceptor brings the power of your Chrome window to Postman!",
+  "bullets":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaspect with Interceptor. Postman interceptor brings the power of your Chrome window to Postman!",
+  "difficulty":"Easy",
+  "length":"4 days",
+  "price":"750",
+  "region":"Central Coast",
+  "keywords":"National Park"
+
+ }
+}'

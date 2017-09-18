@@ -1,0 +1,16 @@
+com\example\ec\explorecali\domain\TourRatingPk.class
+com\example\ec\explorecali\repo\TourRatingRepository.class
+com\example\ec\explorecali\web\TourRatingController.class
+com\example\ec\explorecali\repo\TourPackageRepository.class
+com\example\ec\explorecali\services\TourService.class
+com\example\ec\explorecali\ExplorecaliApplication$TourFromFile$1.class
+com\example\ec\explorecali\ExplorecaliApplication.class
+com\example\ec\explorecali\ExplorecaliApplication$TourFromFile.class
+com\example\ec\explorecali\domain\Difficulty.class
+com\example\ec\explorecali\domain\TourRating.class
+com\example\ec\explorecali\domain\Tour.class
+com\example\ec\explorecali\repo\TourRepository.class
+com\example\ec\explorecali\web\RatingDto.class
+com\example\ec\explorecali\domain\Region.class
+com\example\ec\explorecali\domain\TourPackage.class
+com\example\ec\explorecali\services\TourPackageService.class
