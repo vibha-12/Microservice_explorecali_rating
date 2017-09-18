@@ -2815,3 +2815,9 @@
 11:24:49.223 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
 11:24:49.225 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
 11:24:49.225 [http-nio-4040-exec-4] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+12:51:22.591 [http-nio-4040-exec-7] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+12:51:22.591 [http-nio-4040-exec-7] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+12:51:27.924 [http-nio-4040-exec-8] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+12:51:27.924 [http-nio-4040-exec-8] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+12:55:10.554 [http-nio-4040-exec-5] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
+12:55:10.554 [http-nio-4040-exec-5] DEBUG c.e.e.explorecali.domain.TourPackage - Log message from TourPacakge constructor
