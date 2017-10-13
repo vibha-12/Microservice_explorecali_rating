@@ -74,11 +74,11 @@ public class TourPackageContTest extends ExplorecaliApplicationTests {
               .andExpect(status().isOk())
               .andExpect(content().contentType(MediaType.APPLICATION_JSON_UTF8_VALUE))
               .andExpect(jsonPath("$[0].score").value(5))
-              .andExpect(jsonPath("$[0].customerId").value(1))
-              .andExpect(jsonPath("$[0].comment").value("It was Ok"))
-              .andExpect(jsonPath("$[1].customerId").value(2))     //way of comparison i.e. tourRatingPk.getCustomerId()
-              .andExpect(jsonPath("$[1].score").value(4))
-              .andExpect(jsonPath("$[1].comment").value("Nice"));
+              .andExpect(jsonPath("$[0].customerId").value(5))
+              .andExpect(jsonPath("$[0].comment").value("good"))
+              .andExpect(jsonPath("$[1].customerId").value(4))     //way of comparison i.e. tourRatingPk.getCustomerId()
+              .andExpect(jsonPath("$[1].score").value(5))
+              .andExpect(jsonPath("$[1].comment").value("good"));
                //verify(todoServiceMock,times(1)).findByPkTourId(1);
               verifyNoMoreInteractions(todoServiceMock);
     }
