@@ -69,10 +69,10 @@ public class TourPackageContTest extends ExplorecaliApplicationTests {
     	  
         when(todoServiceMock.findByPkTourId(1)).thenReturn(users);
         
-        this.mockMvc.perform(get("/tours/{tourId}/ratings", 1)).andExpect(content().contentType(MediaType.APPLICATION_JSON_UTF8_VALUE)).andDo(print());
+        this.mockMvc.perform(get("/tours/{tourId}/ratings", 1)).andDo(print());
         mockMvc.perform(get("/tours/{tourId}/ratings", 1))
               .andExpect(status().isOk())
-              .andExpect(content().contentType(MediaType.APPLICATION_JSON_UTF8_VALUE))
+              //.andExpect(content().contentType(MediaType.APPLICATION_JSON_UTF8))
               .andExpect(jsonPath("$[0].score").value(5))
               .andExpect(jsonPath("$[0].customerId").value(5))
               .andExpect(jsonPath("$[0].comment").value("good"))
